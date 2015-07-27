@@ -13,6 +13,7 @@ Copyright (c) Microsoft Open Technologies, Inc.  All rights reserved.
 Licensed under the Apache License, Version 2.0.
 See License.txt in the project root for license information.
 
+<--test-->
 News
 ====
 We are happy to announce the release of the Open XML SDK Version 2.6.  The
